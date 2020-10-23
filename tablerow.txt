@@ -1,0 +1,5 @@
+http://tutorialsbuzz.com/2014/02/android-buidling-tablelayout-dynamically-at-runtime.html
+
+https://code.tutsplus.com/tutorials/android-user-interface-design-table-layouts--mobile-4788
+
+https://technotzz.wordpress.com/2011/11/04/android-dynamically-add-rows-to-table-layout/

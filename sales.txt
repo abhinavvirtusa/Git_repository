@@ -1,0 +1,49 @@
+
+
+
+MVC:
+
+Model objects-(Data Tables)
+       Fields-(columns)
+
+View  Apps
+      Pages
+      Tabs
+
+control set of logics & instructions
+
+
+
+Building a "project management app" for a company
+==================================================
+		Projects
+==================================================
+	Name			Text		
+	Duration		Number
+	Start Date		Date
+	Budget			Currency
+	Project End Date	Date
+	Actual End Date		Date
+	Employees		Number
+	Status			Pick List
+	Actual Cost		Currency
+===================================================
+
+===================================================		
+			People
+====================================================
+
+	Emp Id			Number
+	First Name		Text
+	Last Name		Text
+	Designation		Pick List	
+	Role			Pick List	
+	Phone			Phone
+	Salary			Currency
+	Email			Email
+	Skillset	      	Multi PickList
+	Mobile			Phone
+========================================================
+https://www.youtube.com/watch?v=L3oOEcOSMqs-------taba,apps,fields
+https://www.youtube.com/watch?v=ohMeTNnBBSo------------relationships
+https://www.dvdvideosoft.com/products/dvd/Free-Screen-Video-Recorder.htm
